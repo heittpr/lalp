@@ -1,6 +1,6 @@
 # lalp
 
-repo for my LALP class at [CEFET-MG Campus XI](contagem.cefetmg.br/)
+repo for my LALP class at [CEFET-MG Campus XI](http://www.contagem.cefetmg.br/)
 
 ---
 
