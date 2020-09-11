@@ -4,7 +4,7 @@
   
   Aluno:      Heitor Gonçalves Leite
   Aula:       09/09
-  Exercício:  11
+  Exercício:  12
 */
 
 #include <stdio.h>
@@ -17,9 +17,11 @@ int main() {
 
   printf("%d é ", n);
 
+  // determina a paridade de n através do resto mod 2
   if (n % 2) printf("ímpar e ");
   else       printf("par e ");
 
+  // determina se n é positivo ou negativo
   if (n < 0) printf("negativo.\n");
   else       printf("positivo.\n");
 
