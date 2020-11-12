@@ -4,7 +4,7 @@
   
   Aluno:      Heitor Gonçalves Leite
   Aula:       28/10
-  Exercício:  5
+  Exercício:  8
 */
 
 #include <stdio.h>
